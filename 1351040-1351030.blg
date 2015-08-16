@@ -5,9 +5,25 @@ Warning--entry type for "HowBitTorrentWorks" isn't style-file defined
 --line 11 of file Bibtex.bib
 Warning--entry type for "HowP2PWorks" isn't style-file defined
 --line 17 of file Bibtex.bib
+Warning--entry type for "safesttorrent" isn't style-file defined
+--line 132 of file Bibtex.bib
+Warning--entry type for "bibleip" isn't style-file defined
+--line 145 of file Bibtex.bib
+Warning--entry type for "bittorentmedia" isn't style-file defined
+--line 151 of file Bibtex.bib
+Warning--entry type for "bittorenethics" isn't style-file defined
+--line 157 of file Bibtex.bib
+Warning--entry type for "bittorendanger" isn't style-file defined
+--line 163 of file Bibtex.bib
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author and editor in exodus2015
+Warning--missing publisher in exodus2015
+Warning--empty year in exodus2015
+Warning--empty author and editor in deuteronomy2717
+Warning--missing publisher in deuteronomy2717
+Warning--empty year in deuteronomy2717
 
 Done.
-(There were 2 warnings)
+(There were 13 warnings)
