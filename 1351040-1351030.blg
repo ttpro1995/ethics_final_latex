@@ -15,9 +15,15 @@ Warning--entry type for "bittorenethics" isn't style-file defined
 --line 157 of file Bibtex.bib
 Warning--entry type for "bittorendanger" isn't style-file defined
 --line 163 of file Bibtex.bib
+I was expecting a `,' or a `}'---line 173 of file Bibtex.bib
+ :  url={http://copyright.gov/title17/92chap5.html}
+ :                                                 s
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "canadadataretention"
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author in copyrightlawusa
 Warning--empty author and editor in exodus2015
 Warning--missing publisher in exodus2015
 Warning--empty year in exodus2015
@@ -26,4 +32,4 @@ Warning--missing publisher in deuteronomy2717
 Warning--empty year in deuteronomy2717
 
 Done.
-(There were 13 warnings)
+(There was 1 error message)
