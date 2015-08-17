@@ -54,7 +54,7 @@ R.~Schollmeier, ``A definition of peer-to-peer networking for the
 
 \bibitem{tyson2005old}
 J.~Tyson, ``How the old napster worked,'' \emph{Web Page: HowStuffWorks (R),
-  Archived at http://web. archive. org}, 2005.
+  Archived at http://web.archive.org}, 2005.
 
 \bibitem{douglas2004copyright}
 G.~Douglas, ``Copyright and peer-to-peer music file sharing: The napster case
@@ -65,8 +65,40 @@ G.~Douglas, ``Copyright and peer-to-peer music file sharing: The napster case
 S.~Watson, ``How kazaa works,'' \emph{HowStuffWorks.< http://computer.
   howstuffworks. com/kazaa3. htm}, 2008.
 
-\bibitem{cohen2001bittorrent}
+\bibitem{cohen2001BitTorrent}
 B.~Cohen, ``Bittorrent—a new p2p app,'' \emph{Yahoo eGroups}, 2001.
+
+\bibitem{bittorentdhtpex}
+\BIBentryALTinterwordspacing
+``Bittorrent’s future? dht, pex and magnet links explained,'' last access
+  August 16, 2015. [Online]. Available:
+  \url{https://torrentfreak.com/bittorrents-future-dht-pex-and-magnet-links-explained-091120/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{intellproperty}
+\BIBentryALTinterwordspacing
+``What is intellectual property?'' last access August 16, 2015. [Online].
+  Available: \url{http://www.wipo.int/about-ip/en/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{piracydef}
+\BIBentryALTinterwordspacing
+``Piracy (intellectual property) definition,'' last access August 16, 2015.
+  [Online]. Available:
+  \url{http://www.duhaime.org/LegalDictionary/P/PiracyIntellectualProperty.aspx}
+\BIBentrySTDinterwordspacing
+
+\bibitem{piratebay}
+\BIBentryALTinterwordspacing
+``The pirate bay,'' last access August 16, 2015. [Online]. Available:
+  \url{https://thepiratebay.vg/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{kickass}
+\BIBentryALTinterwordspacing
+``Kickasstorrent,'' last access August 16, 2015. [Online]. Available:
+  \url{http://kat.cr/}
+\BIBentrySTDinterwordspacing
 
 \bibitem{bright2011current}
 S.~Bright, ``Current state of bittorrent in international law: Why copyright
@@ -90,6 +122,13 @@ M.~J. Quinn, \emph{Ethics for the information age}.\hskip 1em plus 0.5em minus
   \url{http://www.best-bittorrent-vpn.com/-safest-countries-to-download-torrents.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{canadadataretention}
+\BIBentryALTinterwordspacing
+``What are the dangers of torrents?'' last access August 16, 2015. [Online].
+  Available:
+  \url{http://www.aph.gov.au/sitecore/content/Home/Parliamentary\_Business/Bills\_Legislation/Bills\_Search\_Results/Result?bId=r5375}
+\BIBentrySTDinterwordspacing
+
 \bibitem{copyrightlawusa}
 \BIBentryALTinterwordspacing
 ``Copyright infringement and remedies,'' \emph{Copyright Law of the United
@@ -108,13 +147,6 @@ M.~J. Quinn, \emph{Ethics for the information age}.\hskip 1em plus 0.5em minus
 ``Is the bible relevant to intellectual property?'' last access August 16,
   2015. [Online]. Available:
   \url{http://www.hbu.edu/Choosing-HBU/Academics/Colleges-Schools/School-of-Business/Center-for-Christianity-in-Business-(CCB)/The-Kingdom-Economy-TKE/ccbtke-legal-corner/2014/April/Is-The-Bible-Relevant-To-Intellectual-Property.aspx}
-\BIBentrySTDinterwordspacing
-
-\bibitem{bittorentmedia}
-\BIBentryALTinterwordspacing
-``What effect has bittorrent had on the media industry?'' last access August
-  16, 2015. [Online]. Available:
-  \url{http://www.lawdit.co.uk/reading-room/what-effect-has-bittorrent-had-on-the-media-industry}
 \BIBentrySTDinterwordspacing
 
 \bibitem{bittorenethics}

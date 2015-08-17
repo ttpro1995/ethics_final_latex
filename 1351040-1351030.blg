@@ -9,17 +9,22 @@ Warning--entry type for "safesttorrent" isn't style-file defined
 --line 132 of file Bibtex.bib
 Warning--entry type for "bibleip" isn't style-file defined
 --line 145 of file Bibtex.bib
-Warning--entry type for "bittorentmedia" isn't style-file defined
---line 151 of file Bibtex.bib
 Warning--entry type for "bittorenethics" isn't style-file defined
 --line 157 of file Bibtex.bib
 Warning--entry type for "bittorendanger" isn't style-file defined
 --line 163 of file Bibtex.bib
-I was expecting a `,' or a `}'---line 173 of file Bibtex.bib
- :  url={http://copyright.gov/title17/92chap5.html}
- :                                                 s
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "canadadataretention"
+Warning--entry type for "canadadataretention" isn't style-file defined
+--line 176 of file Bibtex.bib
+Warning--entry type for "bittorentdhtpex" isn't style-file defined
+--line 181 of file Bibtex.bib
+Warning--entry type for "intellproperty" isn't style-file defined
+--line 187 of file Bibtex.bib
+Warning--entry type for "piracydef" isn't style-file defined
+--line 193 of file Bibtex.bib
+Warning--entry type for "piratebay" isn't style-file defined
+--line 199 of file Bibtex.bib
+Warning--entry type for "kickass" isn't style-file defined
+--line 205 of file Bibtex.bib
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -32,4 +37,4 @@ Warning--missing publisher in deuteronomy2717
 Warning--empty year in deuteronomy2717
 
 Done.
-(There was 1 error message)
+(There were 19 warnings)
